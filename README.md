@@ -1,5 +1,6 @@
 # UoyaRyota
-<p align="left">[![Anurag's GitHub stats　２０２３](https://github-readme-stats.vercel.app/api?username=UoyaRyota)](https://github.com/UoyaRyota)</p>
+[![Anurag's GitHub stats　２０２３](https://github-readme-stats.vercel.app/api?username=UoyaRyota)](https://github.com/UoyaRyota)
+
 <p align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UoyaRyota)](https://github.com/UoyaRyota)</p>
 
 <h3 align="left">Languages and Tools:</h3>
