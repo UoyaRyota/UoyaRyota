@@ -1,6 +1,6 @@
 # UoyaRyota
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UoyaRyota)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UoyaRyota)](https://github.com/UoyaRyota)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
