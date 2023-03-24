@@ -1,7 +1,7 @@
 # UoyaRyota
+<p align="left">[![Anurag's GitHub stats　２０２３](https://github-readme-stats.vercel.app/api?username=UoyaRyota)](https://github.com/UoyaRyota)</p>
+<p align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UoyaRyota)](https://github.com/UoyaRyota)</p>
 
-[![Anurag's GitHub stats　２０２３](https://github-readme-stats.vercel.app/api?username=UoyaRyota)](https://github.com/UoyaRyota)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UoyaRyota)](https://github.com/UoyaRyota)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
