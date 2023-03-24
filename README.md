@@ -1,14 +1,5 @@
 # UoyaRyota
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src=https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UoyaRyota" />
-  </a>
-</p>
-                                                                                                                   
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/ style="margin:20px">
@@ -26,3 +17,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>   　　
     </a>
 </p>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src=https://github-readme-stats.vercel.app/api?username=UoyaRyota&theme=graywhite&count_private=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UoyaRyota" />
+  </a>
+
+                                                                                                                                           
